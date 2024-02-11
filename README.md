@@ -31,15 +31,11 @@ AmirSabzalipour.github.io/data_science
 
 - Thesis title: [Charge Transport in Magnetic Topological Insulators](https://repository.uantwerpen.be/docstore/d:irua:8696)
 
-**M.Sc. in Physics**  
-*Institute for Advanced Studies in Basic Science, Zanjan, Iran*  
-*September 2011 - April 2014*
+**M.Sc. in Physics,Institute for Advanced Studies in Basic Science, Zanjan, Iran, September 2011 - April 2014 **  
 
 - Studying Spin-Orbit interaction's effect on the anisotropic properties of materials.
 
-**B.Sc. in Physics**  
-*University of Tehran, Tehran*  
-*September 2003 - April 2008*
+**B.Sc. in Physics, University of Tehran, Tehran, September 2003 - April 2008 **  
 
 - Employing Physical Vapor Deposition (PVD) techniques, such as Sputtering and thermal co-evaporation, for nano-coating on thin films.
 
