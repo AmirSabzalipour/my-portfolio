@@ -1,7 +1,3 @@
-
-# data_science
-AmirSabzalipour.github.io/data_science
-
 # Data Scientist
 
 #### Technical Skills: 
