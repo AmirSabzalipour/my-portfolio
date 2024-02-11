@@ -1,4 +1,4 @@
-![Profile Picture](profile_picture.jpg)
+![Profile Picture](Images/amir.png)
 
 
 # data_science
