@@ -6,13 +6,10 @@ AmirSabzalipour.github.io/data_science
 #### Technical Skills: 
 **Programming**
 - Proficient in Python, C, Mathematica, and SQL (Structured Query Language).
-
 **Data Science**
 - Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.
-
 **Machine Learning**
 - Skilled in SciKit Learn: Regression, Classification (Random Forests, Support Vector Machines and ..), Natural Language Processing (NLP), Deep Learning and Neural Networks with PyTorch.
-
 **Optimization**
 - Employing the Pyomo modeling language and solvers, such as CPLEX and Gurobi, with mixed-integer linear, mixed-integer nonlinear, and linear programming.
 
