@@ -1,8 +1,3 @@
-<div style="display: flex; align-items: center;">
-  <img src="your_picture.jpg" alt="Your Picture" width="150" height="150" style="border-radius: 50%; margin-right: 20px;">
-  <h1>Your Name</h1>
-</div>
-
 
 # data_science
 AmirSabzalipour.github.io/data_science
