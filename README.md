@@ -1,3 +1,6 @@
+![Profile Picture](profile_picture.jpg)
+
+
 # data_science
 AmirSabzalipour.github.io/data_science
 
