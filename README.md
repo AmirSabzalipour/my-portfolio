@@ -27,9 +27,7 @@ AmirSabzalipour.github.io/data_science
 
 ### Education
 
-**Ph.D. in Physics**  
-*University of Antwerp, Belgium*  
-*March 2017 - October 2021*
+**Ph.D. in Physics,University of Antwerp, Belgium,March 2017 - October 2021 **  
 
 - Thesis title: [Charge Transport in Magnetic Topological Insulators](https://repository.uantwerpen.be/docstore/d:irua:8696)
 
