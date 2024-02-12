@@ -2,16 +2,11 @@
 
 Welcome to my Data Science portfolio! 
 
-Explore my projects and visit the associated website [here](https://amirsabzalipour.github.io/Data_Science/).
-
 ### <span style="color:navy">Technical Skills</span>
-
 #### Programming
 - Proficient in Python, C, Mathematica, and SQL.
-
 #### Data Science
 - Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.
-
 #### Machine Learning
 - Skilled in SciKit Learn: Regression, Classification (Random Forests, Support Vector Machines, etc.), Natural Language Processing (NLP), Deep Learning, and Neural Networks with PyTorch.
 
