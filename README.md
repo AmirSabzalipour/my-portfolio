@@ -29,44 +29,44 @@ Explore my projects and visit the associated website [here](https://amirsabzalip
 
 ### <span style="color:navy">Education</span>
 
-- **Ph.D. in Physics**
-  - University of Antwerp, Belgium (March 2017 - October 2021)
-  - [Thesis: Charge Transport in Magnetic Topological Insulators](https://repository.uantwerpen.be/docstore/d:irua:8696)
+- **Ph.D. in Physics**<br>
+  University of Antwerp, Belgium (March 2017 - October 2021)<br>
+  [Thesis: Charge Transport in Magnetic Topological Insulators](https://repository.uantwerpen.be/docstore/d:irua:8696)
 
-- **M.Sc. in Physics**
-  - Institute for Advanced Studies in Basic Science, Zanjan, Iran (September 2011 - April 2014)
+- **M.Sc. in Physics**<br>
+  Institute for Advanced Studies in Basic Science, Zanjan, Iran (September 2011 - April 2014)
 
-- **B.Sc. in Physics**
-  - University of Tehran, Tehran (September 2003 - April 2008)
+- **B.Sc. in Physics**<br>
+  University of Tehran, Tehran (September 2003 - April 2008)
 
 ### Work Experience
 
 #### Computational Research on Materials
 
-- **Postdoctoral Researcher**
-  - University of Antwerp, Belgium (October 2021 - January 2023)
+- **Postdoctoral Researcher**<br>
+  University of Antwerp, Belgium (October 2021 - January 2023)
 
-- **Doctoral Researcher**
-  - University of Antwerp, Belgium (March 2017 - October 2021)
+- **Doctoral Researcher**<br>
+  University of Antwerp, Belgium (March 2017 - October 2021)
 
-- **Visiting Researcher**
-  - Institute for Research in Fundamental Sciences, Iran (February 2016 - February 2017)
+- **Visiting Researcher**<br>
+  Institute for Research in Fundamental Sciences, Iran (February 2016 - February 2017)
 
-- **Visiting Researcher**
-  - Uppsala University, Sweden (October 2015 - January 2016)
+- **Visiting Researcher**<br>
+  Uppsala University, Sweden (October 2015 - January 2016)
 
 #### Optical Design
 
-- **Research Engineer**
-  - University of Antwerp, Belgium (January 2020 - March 2021)
+- **Research Engineer**<br>
+  University of Antwerp, Belgium (January 2020 - March 2021)
 
-- **Optical Design Engineer**
-  - Institute for Advanced Studies in Basic Science, Iran (January 2014 - September 2015)
+- **Optical Design Engineer**<br>
+  Institute for Advanced Studies in Basic Science, Iran (January 2014 - September 2015)
 
 #### Material Characterization, Optical Metrology
 
-- **Research Assistant**
-  - University of Tehran, Tehran (May 2008 - August 2009)
+- **Research Assistant**<br>
+  University of Tehran, Tehran (May 2008 - August 2009)
 
 ### Publications
 
