@@ -1,5 +1,5 @@
 <br><br><br>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 Thank you for visiting my portfolio page.It's a pleasure to have you here!
 
