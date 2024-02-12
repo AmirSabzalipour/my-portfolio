@@ -1,8 +1,5 @@
 <br>
-<span style="color:#b8d0df ; font-size:1.5em;"> About me :</span>
-<p style="background-color:#b8d0df;">As a physicist, I develop mathematical models and utilize computer simulations to study material properties for nanoelectronic applications. In addition to computational work on materials, I have also used optical interferometric microscopy to characterize the surface topography of solar cells and optical flats. Finally, I am proud to highlight my solid foundation in data analytics, using data science, machine learning, and optimization techniques throughout my academic career</p>
-
-<div style="background-color: #f0f0f0; border-radius: 10px; padding: 10px;">
+<div style="background-color: #f0f0f0; border-radius: 20px; padding: 10px;">
 As a physicist, I develop mathematical models and utilize computer simulations to study material properties for nanoelectronic applications. In addition to computational work on materials, I have also used optical interferometric microscopy to characterize the surface topography of solar cells and optical flats. Finally, I am proud to highlight my solid foundation in data analytics, using data science, machine learning, and optimization techniques throughout my academic career.
 </div>
 
