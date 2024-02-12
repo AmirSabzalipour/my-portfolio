@@ -1,3 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Data Scientist</title>
+  <style>
+    body {
+      background-image: url('https://github.com/AmirSabzalipour/data_science/raw/main/assets/images/background.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      font-family: Arial, sans-serif;
+      color: white;
+    }
+
+    #content {
+      padding: 20px;
+    }
+
+    /* Style the headings */
+    h1, h2, h3 {
+      color: #006699;
+    }
+
+    /* Style the links */
+    a {
+      color: #ff9900;
+    }
+  </style>
+</head>
+<body>
+
+<div id="content">
+
 # Data Scientist
 
 #### Technical Skills: 
@@ -115,4 +148,8 @@
 - Effect of hexagonal warping on the surface conductivity of a topological insulator  
 - *JA A Rezaei, A Sabzalipour, S Abedinpour*  
 - The 12th Condensed Matter Conference of the Iranian Physics Society
+
+</div>
+</body>
+</html>
 
