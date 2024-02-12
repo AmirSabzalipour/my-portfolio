@@ -1,4 +1,4 @@
-<span style="color:#0969DA; font-size:4em;">Data Science</span>
+<span style="color:#066750; font-size:3em;">Data Science</span>
 
 Welcome to the repository for my Data Science projects. 
 
