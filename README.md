@@ -7,7 +7,7 @@ To visit the associated website, click [here](https://amirsabzalipour.github.io/
 #### Technical Skills: 
 
 
-**#####Programming**
+**Programming**
 - Proficient in Python, C, Mathematica, and SQL (Structured Query Language).
   
 **Data Science**
