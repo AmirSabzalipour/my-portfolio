@@ -1,5 +1,4 @@
 # Data Science Portfolio
-
 Welcome to my Data Science portfolio! 
 
 ### <span style="color:navy">Technical Skills</span>
