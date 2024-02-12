@@ -1,9 +1,11 @@
 <br><br><br>
 <br><br><br><br><br><br><br><br><br>
 
-<span style="color:#b8d0df ; font-size:1.5em;">About me :</span>
+Thank you for visiting my portfolio page.It's a pleasure to have you here!
 
-"Thank you for visiting my portfolio page. It's a pleasure to have you here!"
+<span style="color:#b8d0df ; font-size:1.5em;"> About me :</span>
+
+
 
 To visit the associated website, click [here](https://amirsabzalipour.github.io/Data_Science/).
 
