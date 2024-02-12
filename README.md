@@ -5,7 +5,10 @@ Welcome to the repository for my Data Science projects.
 To visit the associated website, click [here](https://amirsabzalipour.github.io/Data_Science/).
 
 #### Technical Skills: 
-**Programming**
+
+<font size="4">#### Technical Skills:</font>
+
+<font size="2">**Programming**</font>
 - Proficient in Python, C, Mathematica, and SQL (Structured Query Language).
   
 **Data Science**
