@@ -1,7 +1,5 @@
 <span style="color:#0969DA; font-size:4em;">Data Science</span>
 
-<span style="color:#0969DA;">ali</span>
-
 Welcome to the repository for my Data Science projects. 
 
 To visit the associated website, click [here](https://amirsabzalipour.github.io/Data_Science/).
