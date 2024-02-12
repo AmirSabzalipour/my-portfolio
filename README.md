@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Science
 
 #### Technical Skills: 
 **Programming**
