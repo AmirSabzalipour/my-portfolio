@@ -1,15 +1,9 @@
-
 <br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
-<span style="color:#bcd9fb ; font-size:1.5em;">About me :</span>
+<span style="color:#b8d0df ; font-size:1.5em;">About me :</span>
 
-
-
-
-
-
-Welcome to the repository for my Data Science projects. 
+"Thank you for visiting my portfolio page. It's a pleasure to have you here!"
 
 To visit the associated website, click [here](https://amirsabzalipour.github.io/Data_Science/).
 
