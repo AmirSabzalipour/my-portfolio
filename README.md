@@ -4,10 +4,6 @@ As a physicist, I develop mathematical models and utilize computer simulations t
 </div>
 
 
-
-
-To visit the associated website, click [here](https://amirsabzalipour.github.io/Data_Science/).
-
 #### Technical Skills: 
 
 
