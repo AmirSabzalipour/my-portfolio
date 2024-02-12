@@ -1,5 +1,6 @@
 # Data Science
 <span style="font-size:0.5em;">Text goes here</span>
+<span style="color:#RRGGBB;">ali</span>
 
 Welcome to the repository for my Data Science projects. 
 
