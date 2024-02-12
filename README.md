@@ -1,4 +1,5 @@
-<span style="font-size:4 em; color:#0969DA;"> Data Science</span>
+<span style="color:#0969DA; font-size:4em;">Data Science</span>
+
 <span style="color:#0969DA;">ali</span>
 
 Welcome to the repository for my Data Science projects. 
