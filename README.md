@@ -1,5 +1,4 @@
-<br><br><br>
-Thank you for visiting my portfolio page.
+<br>
 It's a pleasure to have you here!
 
 <span style="color:#b8d0df ; font-size:1.5em;"> About me :</span>
