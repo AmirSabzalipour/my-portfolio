@@ -27,8 +27,6 @@ Mathematical Skills: Wave Theory, Matrix Mechanics, Differential Equations, Stat
 <br><br><br>
 
 #### <span style="color:navy;">Work Experience:</span>
-<br><br>
-
 <div style="background-color: #f0f0f0; border-radius: 20px; padding: 20px;">
  ### Computational Research on Materials
 </div>
