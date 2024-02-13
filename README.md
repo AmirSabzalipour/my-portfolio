@@ -14,27 +14,19 @@ Material Modeling: Modeling materials through HPC with VASP and Quantum ESPRESSO
 Material Characterization: Using physical vapor deposition (PVD) for nanocoating and characterizing thin films through interferometric methods and Atomic Force Microscopy.
 Mathematical Skills: Wave Theory, Matrix Mechanics, Differential Equations, Statistics, Topology, Functional Analysis, Fourier Transformations, Perturbation theory.
 <br><br>
-
-
-
-
-
-### Education
+#### <span style="color:navy;">Education:</span>
 <br>
 **Ph.D. in Physics,University of Antwerp, Belgium,March 2017 - October 2021 **  
-
 - Thesis title: [Charge Transport in Magnetic Topological Insulators](https://repository.uantwerpen.be/docstore/d:irua:8696)
 
 **M.Sc. in Physics,Institute for Advanced Studies in Basic Science, Zanjan, Iran, September 2011 - April 2014 **  
-
 - Studying Spin-Orbit interaction's effect on the anisotropic properties of materials.
 
 **B.Sc. in Physics, University of Tehran, Tehran, September 2003 - April 2008 **  
-
 - Employing Physical Vapor Deposition (PVD) techniques, such as Sputtering and thermal co-evaporation, for nano-coating on thin films.
-
+<br><br><br>
 ## Work Experience
-
+<br><br><br>
 ### Computational Research on Materials
 
 - **Postdoctoral Researcher**
