@@ -1,6 +1,6 @@
 <br>
 <div style="background-color: #f0f0f0; border-radius: 20px; padding: 20px;">
- About me: <br>
+ About me: <br><br>
  As a physicist, I develop mathematical models and utilize computer simulations to study material properties for nanoelectronic applications. In addition to computational work on materials, I have also used optical interferometric microscopy to characterize the surface topography of solar cells and optical flats. Finally, I am proud to highlight my solid foundation in data analytics, using data science, machine learning, and optimization techniques throughout my academic career.
     
 </div>
@@ -9,25 +9,18 @@
 
 ##### Programming
 - Proficient in Python, C, Mathematica, and SQL (Structured Query Language).
-
 ##### Data Science
 - Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.
-
-#### Machine Learning
+##### Machine Learning
 - Skilled in SciKit Learn: Regression, Classification (Random Forests, Support Vector Machines and ..), Natural Language Processing (NLP), Deep Learning and Neural Networks with PyTorch.
-
-#### Optimization
+##### Optimization
 - Employing the Pyomo modeling language and solvers, such as CPLEX and Gurobi, with mixed-integer linear, mixed-integer nonlinear, and linear programming.
-
-#### Material Modeling
+##### Material Modeling
 - Modeling materials through HPC with VASP and Quantum ESPRESSO.
-
-#### Material Characterization
+##### Material Characterization
 - Using physical vapor deposition (PVD) for nanocoating and characterizing thin films through interferometric methods and Atomic Force Microscopy.
-
-#### Mathematical Skills
+##### Mathematical Skills
 - Wave Theory, Matrix Mechanics, Differential Equations, Statistics, Topology, Functional Analysis, Fourier Transformations, Perturbation theory.
-
 <br><br>
 
 
