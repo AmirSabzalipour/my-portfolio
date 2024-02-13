@@ -7,11 +7,9 @@
 <img src="https://www.tinymixtapes.com/sites/default/files/imagecache/Article_Width/1508/mix-15-08-me.gif" alt="icon" width="60"> 
 
 #### Technical Skills: 
-
-
-**Programming**
+####Programming
 - Proficient in Python, C, Mathematica, and SQL (Structured Query Language).
-**Data Science**
+####Data Science
 - Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.
 **Machine Learning**
 - Skilled in SciKit Learn: Regression, Classification (Random Forests, Support Vector Machines and ..), Natural Language Processing (NLP), Deep Learning and Neural Networks with PyTorch.
