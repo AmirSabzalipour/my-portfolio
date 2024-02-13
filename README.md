@@ -26,10 +26,13 @@ Mathematical Skills: Wave Theory, Matrix Mechanics, Differential Equations, Stat
 - Employing Physical Vapor Deposition (PVD) techniques, such as Sputtering and thermal co-evaporation, for nano-coating on thin films.
 <br><br><br>
 
-#### <span style="color:navy;">Work Experience:</span>
-<div style="background-color: #f2f2f2; border-radius: 20px; padding: 20px;">
- Computational Research on Materials
+
+# <div style="background-color: #f2f2f2; border-radius: 20px; padding: 20px;">
+ >Work Experience
 </div>
+
+Computational Research on Materials
+
 - **Postdoctoral Researcher**
   - *University of Antwerp, Antwerp, Belgium, October 2021 - January 2023*
     - Responsibilities:
