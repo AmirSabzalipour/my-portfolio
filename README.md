@@ -6,22 +6,35 @@
 </div>
 <img src="https://www.tinymixtapes.com/sites/default/files/imagecache/Article_Width/1508/mix-15-08-me.gif" alt="icon" width="60"> 
 
-#### Technical Skills: 
-####Programming
+#### <span style="color:navy;">Technical Skills:</span>
+
+#### Programming
 - Proficient in Python, C, Mathematica, and SQL (Structured Query Language).
-####Data Science
+
+#### Data Science
 - Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.
-**Machine Learning**
+
+#### Machine Learning
 - Skilled in SciKit Learn: Regression, Classification (Random Forests, Support Vector Machines and ..), Natural Language Processing (NLP), Deep Learning and Neural Networks with PyTorch.
-**Optimization**
+
+#### Optimization
 - Employing the Pyomo modeling language and solvers, such as CPLEX and Gurobi, with mixed-integer linear, mixed-integer nonlinear, and linear programming.
-**Material Modeling**
+
+#### Material Modeling
 - Modeling materials through HPC with VASP and Quantum ESPRESSO.
-**Material Characterization**
+
+#### Material Characterization
 - Using physical vapor deposition (PVD) for nanocoating and characterizing thin films through interferometric methods and Atomic Force Microscopy.
-**Mathematical Skills**
+
+#### Mathematical Skills
 - Wave Theory, Matrix Mechanics, Differential Equations, Statistics, Topology, Functional Analysis, Fourier Transformations, Perturbation theory.
+
 <br><br>
+
+
+
+
+
 ### Education
 <br>
 **Ph.D. in Physics,University of Antwerp, Belgium,March 2017 - October 2021 **  
