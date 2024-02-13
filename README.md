@@ -25,8 +25,9 @@ Mathematical Skills: Wave Theory, Matrix Mechanics, Differential Equations, Stat
 **B.Sc. in Physics, University of Tehran, Tehran, September 2003 - April 2008 **  
 - Employing Physical Vapor Deposition (PVD) techniques, such as Sputtering and thermal co-evaporation, for nano-coating on thin films.
 <br><br><br>
-## Work Experience
-<br><br><br>
+
+#### <span style="color:navy;">Work Experience:</span>
+<br><br>
 ### Computational Research on Materials
 
 - **Postdoctoral Researcher**
@@ -82,7 +83,8 @@ Mathematical Skills: Wave Theory, Matrix Mechanics, Differential Equations, Stat
     - Atomic Force Microscopy characterization of thin films.
     - Producing optical components with λ/4 flatness and interferometric surface characterization.
 
-## Publications
+
+#### <span style="color:navy;">Publications:</span>
 - Dissipationless transport by design in a thin magnetic topological insulator-ferromagnetic heterostructure,   
   *Amir Sabzalipour et. al.* (In preparation).
   
