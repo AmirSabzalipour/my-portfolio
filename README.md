@@ -4,7 +4,7 @@
  As a physicist, I develop mathematical models and utilize computer simulations to study material properties for nanoelectronic applications. In addition to computational work on materials, I have also used optical interferometric microscopy to characterize the surface topography of solar cells and optical flats. Finally, I am proud to highlight my solid foundation in data analytics, using data science, machine learning, and optimization techniques throughout my academic career. 
 </div>
 <br><br>
-#### <span style="color:navy;">Technical Skills:</span>
+### <span style="color:navy;">Technical Skills:</span>
 
 Programming : Proficient in Python, C, Mathematica, and SQL (Structured Query Language).<br>
 Data Science : Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.<br>
@@ -27,9 +27,9 @@ Mathematical Skills: Wave Theory, Matrix Mechanics, Differential Equations, Stat
 <br><br><br>
 
 
-# <div style="background-color: #f2f2f2; border-radius: 20px; padding: 20px;">
- >Work Experience
-</div>
+<div style="background-color: #f2f2f2; border-radius: 20px; padding: 20px;">
+ >Work Experience </div>
+
 
 Computational Research on Materials
 
