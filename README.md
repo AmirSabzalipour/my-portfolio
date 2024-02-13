@@ -4,7 +4,7 @@
  As a physicist, I develop mathematical models and utilize computer simulations to study material properties for nanoelectronic applications. In addition to computational work on materials, I have also used optical interferometric microscopy to characterize the surface topography of solar cells and optical flats. Finally, I am proud to highlight my solid foundation in data analytics, using data science, machine learning, and optimization techniques throughout my academic career. 
 </div>
 <br><br>
-### <span style="color:navy;">Technical Skills:</span>
+## <span style="color:navy;">Technical Skills:</span>
 
 Programming : Proficient in Python, C, Mathematica, and SQL (Structured Query Language).<br>
 Data Science : Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.<br>
@@ -14,7 +14,7 @@ Material Modeling: Modeling materials through HPC with VASP and Quantum ESPRESSO
 Material Characterization: Using physical vapor deposition (PVD) for nanocoating and characterizing thin films through interferometric methods and Atomic Force Microscopy.
 Mathematical Skills: Wave Theory, Matrix Mechanics, Differential Equations, Statistics, Topology, Functional Analysis, Fourier Transformations, Perturbation theory.
 <br><br>
-#### <span style="color:navy;">Education:</span>
+## <span style="color:navy;">Technical Education:</span>
 <br>
 **Ph.D. in Physics,University of Antwerp, Belgium,March 2017 - October 2021 **  
 - Thesis title: [Charge Transport in Magnetic Topological Insulators](https://repository.uantwerpen.be/docstore/d:irua:8696)
@@ -26,10 +26,7 @@ Mathematical Skills: Wave Theory, Matrix Mechanics, Differential Equations, Stat
 - Employing Physical Vapor Deposition (PVD) techniques, such as Sputtering and thermal co-evaporation, for nano-coating on thin films.
 <br><br><br>
 
-
-<div style="background-color: #f2f2f2; border-radius: 20px; padding: 20px;">
- >Work Experience </div>
-
+## <span style="color:navy;">Work Experience:</span>
 
 Computational Research on Materials
 
@@ -86,8 +83,7 @@ Computational Research on Materials
     - Atomic Force Microscopy characterization of thin films.
     - Producing optical components with λ/4 flatness and interferometric surface characterization.
 
-
-#### <span style="color:navy;">Publications:</span>
+## <span style="color:navy;">Publications:</span>
 - Dissipationless transport by design in a thin magnetic topological insulator-ferromagnetic heterostructure,   
   *Amir Sabzalipour et. al.* (In preparation).
   
