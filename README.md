@@ -28,8 +28,10 @@ Mathematical Skills: Wave Theory, Matrix Mechanics, Differential Equations, Stat
 
 #### <span style="color:navy;">Work Experience:</span>
 <br><br>
-### Computational Research on Materials
 
+<div style="background-color: #f0f0f0; border-radius: 20px; padding: 20px;">
+ ### Computational Research on Materials
+</div>
 - **Postdoctoral Researcher**
   - *University of Antwerp, Antwerp, Belgium, October 2021 - January 2023*
     - Responsibilities:
