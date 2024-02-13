@@ -8,10 +8,10 @@
 
 #### <span style="color:navy;">Technical Skills:</span>
 
-#### Programming
+##### Programming
 - Proficient in Python, C, Mathematica, and SQL (Structured Query Language).
 
-#### Data Science
+##### Data Science
 - Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.
 
 #### Machine Learning
