@@ -6,8 +6,7 @@
 <br><br>
 ## <span style="color:navy;">Technical Skills:</span>
 
-#### <span style="font-size:0.5em;"color:navy;">Programming</span> :Proficient in Python, C, Mathematica, and SQL (Structured Query Language).
-
+<span style="font-size:12px; color:navy;">Programming</span>: Proficient in Python, C, Mathematica, and SQL (Structured Query Language).
 
 
 Data Science : Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.<br>
