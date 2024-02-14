@@ -6,7 +6,7 @@
 <br><br>
 ## <span style="color:navy;">Technical Skills:</span>
 
-Programming : Proficient in Python, C, Mathematica, and SQL (Structured Query Language).
+###Programming : Proficient in Python, C, Mathematica, and SQL (Structured Query Language).
 
 Data Science : Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.<br>
 Machine Learning: Skilled in SciKit Learn: Regression, Classification (Random Forests, Support Vector Machines and ..), Natural Language Processing (NLP), Deep Learning and Neural Networks with PyTorch.<br>
