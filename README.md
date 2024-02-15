@@ -24,7 +24,7 @@
 
 ## <span style="color:navy;">Education:</span>
 
-<span style="font-size:14px; color:#7cafc2 ;">Ph.D. in Physics:</span> <span style="font-size:13px;">University of Antwerp, Belgium,March 2017 - October 2021</span> 
+<span style="font-size:14px; color:#383838 ;">Ph.D. in Physics:</span> <span style="font-size:13px;">University of Antwerp, Belgium,March 2017 - October 2021</span> 
 - Thesis title: [Charge Transport in Magnetic Topological Insulators](https://repository.uantwerpen.be/docstore/d:irua:8696)
 
 
