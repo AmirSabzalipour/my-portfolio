@@ -21,10 +21,13 @@
 
 <span style="font-size:14px; color:cadetblue;">Mathematical Skills :</span> <span style="font-size:13px;">Wave Theory, Matrix Mechanics, Differential Equations, Statistics, Topology, Functional Analysis, Fourier Transformations, Perturbation theory.
 </span> 
- 
-## <span style="color:navy;">Technical Education:</span>
-<br>
-**Ph.D. in Physics,University of Antwerp, Belgium,March 2017 - October 2021 **  
+
+## <span style="color:navy;">Education:</span>
+
+<span style="font-size:14px; color:cadetblue;">Ph.D. in Physics</span> <span style="font-size:13px;">University of Antwerp, Belgium,March 2017 - October 2021</span> 
+
+
+**Ph.D. in Physics, **  
 - Thesis title: [Charge Transport in Magnetic Topological Insulators](https://repository.uantwerpen.be/docstore/d:irua:8696)
 
 **M.Sc. in Physics,Institute for Advanced Studies in Basic Science, Zanjan, Iran, September 2011 - April 2014 **  
