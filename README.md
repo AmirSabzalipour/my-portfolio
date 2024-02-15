@@ -8,7 +8,7 @@
 
 <span style="font-size: 14px; color: cadetblue; font-family: 'Avenir Next LT Pro', sans-serif;">Programming :</span>
 
-<span style="font-size:14px; color:cadetblue; font-family: 'Avenir Next LT Pro', sans-serif;">Programming :</span> <span style="font-size:13px; color:black;">Proficient in Python, C, Mathematica, and SQL (Structured Query Language).</span> 
+<span style="font-size:14px; color:cadetblue; font-family: 'Avenir Next LT Pro', sans-serif;">Programming :</span> <span style="font-size:13px; color:black;  font-family: 'Avenir Next LT Pro', sans-serif;">Proficient in Python, C, Mathematica, and SQL (Structured Query Language).</span> 
 
 <span style="font-size:14px; color:cadetblue;">Data Science :</span> <span style="font-size:13px;  color:#0d1117;">Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</span> 
 
