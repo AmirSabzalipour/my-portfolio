@@ -6,21 +6,21 @@
 <br><br>
 ## <span style="color:navy;">Technical Skills:</span>
 
-<span style="font-size:16px; color:cadetblue;">Programming :</span> <span style="font-size:14px;">Proficient in Python, C, Mathematica, and SQL (Structured Query Language).</span> 
+<span style="font-size:15px; color:cadetblue;">Programming :</span> <span style="font-size:12px;">Proficient in Python, C, Mathematica, and SQL (Structured Query Language).</span> 
 
-<span style="font-size:16px; color:cadetblue;">Data Science :</span> <span style="font-size:14px;">Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</span> 
+<span style="font-size:15px; color:cadetblue;">Data Science :</span> <span style="font-size:12px;">Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</span> 
 
-<span style="font-size:16px; color:cadetblue;">Machine Learning :</span> Skilled in SciKit Learn: Regression, Classification (Random Forests, Support Vector Machines and ..), Natural Language Processing (NLP), Deep Learning and Neural Networks with PyTorch.<br>
+<span style="font-size:15px; color:cadetblue;">Machine Learning :</span> <span style="font-size:15px;"> Skilled in SciKit Learn: Regression, Classification (Random Forests, Support Vector Machines and ..), Natural Language Processing (NLP), Deep Learning and Neural Networks with PyTorch.</span> 
 
-<span style="font-size:16px; color:cadetblue;">Optimization :</span>  Employing the Pyomo modeling language and solvers, such as CPLEX and Gurobi, with mixed-integer linear, mixed-integer nonlinear, and linear programming.
+<span style="font-size:15px; color:cadetblue;">Optimization :</span> <span style="font-size:15px; color:cadetblue;">Employing the Pyomo modeling language and solvers, such as CPLEX and Gurobi, with mixed-integer linear, mixed-integer nonlinear, and linear programming.</span>
 
-<span style="font-size:16px; color:cadetblue;">Material Modeling :</span> Modeling materials through HPC with VASP and Quantum ESPRESSO.
- 
-<span style="font-size:16px; color:cadetblue;">Material Characterization :</span>  Using physical vapor deposition (PVD) for nanocoating and characterizing thin films through interferometric methods and Atomic Force Microscopy.
+<span style="font-size:16px; color:cadetblue;">Material Modeling :</span> <span style="font-size:16px; color:cadetblue;">Modeling materials through HPC with VASP and Quantum ESPRESSO.</span>
 
-<span style="font-size:16px; color:cadetblue;">Mathematical Skills :</span> Wave Theory, Matrix Mechanics, Differential Equations, Statistics, Topology, Functional Analysis, Fourier Transformations, Perturbation theory.
-<br><br>
+<span style="font-size:16px; color:cadetblue;"> Material Characterization :</span> <span style="font-size:16px; color:cadetblue;">Using physical vapor deposition (PVD) for nanocoating and characterizing thin films through interferometric methods and Atomic Force Microscopy.
+</span>
 
+<span style="font-size:16px; color:cadetblue;">Mathematical Skills :</span> <span style="font-size:16px; color:cadetblue;">Wave Theory, Matrix Mechanics, Differential Equations, Statistics, Topology, Functional Analysis, Fourier Transformations, Perturbation theory.
+</span> 
  
 ## <span style="color:navy;">Technical Education:</span>
 <br>
