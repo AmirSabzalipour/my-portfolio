@@ -8,8 +8,9 @@
 
 <span style="font-size:16px; color:cadetblue;">Programming</span>: Proficient in Python, C, Mathematica, and SQL (Structured Query Language).
 
+<span style="font-size:16px; color:#b8b8b8;">Data Science :</span> Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.<br>
 
-Data Science : Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.<br>
+
 Machine Learning: Skilled in SciKit Learn: Regression, Classification (Random Forests, Support Vector Machines and ..), Natural Language Processing (NLP), Deep Learning and Neural Networks with PyTorch.<br>
 Optimization: Employing the Pyomo modeling language and solvers, such as CPLEX and Gurobi, with mixed-integer linear, mixed-integer nonlinear, and linear programming.
 Material Modeling: Modeling materials through HPC with VASP and Quantum ESPRESSO.
