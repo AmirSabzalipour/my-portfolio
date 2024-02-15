@@ -8,7 +8,7 @@
 
 <span style="font-size:14px; color:cadetblue;">Programming :</span> <span style="font-size:13px; color:#282828;">Proficient in Python, C, Mathematica, and SQL (Structured Query Language).</span> 
 
-<span style="font-size:14px; color:cadetblue;">Data Science :</span> <span style="font-size:13px;  color:##0d1117;">Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</span> 
+<span style="font-size:14px; color:cadetblue;">Data Science :</span> <span style="font-size:13px;  color:#0d1117;">Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</span> 
 
 <span style="font-size:14px; color:cadetblue;">Machine Learning :</span>  <span style="font-size:13px;"> Skilled in SciKit Learn: Regression, Classification (Random Forests, Support Vector Machines and ..), Natural Language Processing (NLP), Deep Learning and Neural Networks with PyTorch.</span> 
 
