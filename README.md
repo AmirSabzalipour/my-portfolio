@@ -24,19 +24,16 @@
 
 ## <span style="color:navy;">Education:</span>
 
-<span style="font-size:14px; color:cadetblue;">Ph.D. in Physics</span> <span style="font-size:13px;">University of Antwerp, Belgium,March 2017 - October 2021</span> 
-
-
-**Ph.D. in Physics, **  
+<span style="font-size:14px; color:cadetblue;">Ph.D. in Physics:</span> <span style="font-size:13px;">University of Antwerp, Belgium,March 2017 - October 2021</span> 
 - Thesis title: [Charge Transport in Magnetic Topological Insulators](https://repository.uantwerpen.be/docstore/d:irua:8696)
 
-**M.Sc. in Physics,Institute for Advanced Studies in Basic Science, Zanjan, Iran, September 2011 - April 2014 **  
-- Studying Spin-Orbit interaction's effect on the anisotropic properties of materials.
 
-**B.Sc. in Physics, University of Tehran, Tehran, September 2003 - April 2008 **  
-- Employing Physical Vapor Deposition (PVD) techniques, such as Sputtering and thermal co-evaporation, for nano-coating on thin films.
+<span style="font-size:14px; color:cadetblue;">M.Sc. in Physics:</span> <span style="font-size:13px;">Institute for Advanced Studies in Basic Science, Zanjan, Iran, September 2011 - April 2014 </span> 
+- Thesis title: Studying Spin-Orbit interaction's effect on the anisotropic properties of materials.
+
+<span style="font-size:14px; color:cadetblue;"> B.Sc. in Physics: </span> <span style="font-size:13px;">University of Tehran, Tehran, September 2003 - April 2008 </span> 
+- Thesis title: Employing Physical Vapor Deposition (PVD) techniques, such as Sputtering and thermal co-evaporation, for nano-coating on thin films.
 <br><br><br>
-
 ## <span style="color:navy;">Work Experience:</span>
 
 Computational Research on Materials
