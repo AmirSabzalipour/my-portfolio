@@ -1,5 +1,20 @@
-#title: Amir Sabzalipour
-logo: /images/amir.png
-show_downloads: true
-#theme: jekyll-theme-minimal
+title: Your Site Title
+description: Your site description
 
+# Minimal Mistakes theme settings
+remote_theme: mmistakes/minimal-mistakes
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
