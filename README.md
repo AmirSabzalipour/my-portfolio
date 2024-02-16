@@ -4,6 +4,9 @@
 </div>
 ![about me](https://raw.githubusercontent.com/AmirSabzalipour/Data_Science/main/images/me.png)
 
+<img src="https://raw.githubusercontent.com/AmirSabzalipour/Data_Science/main/images/me.png" alt="about me" width="200">
+
+
 ## <span style="color:#7cafc2 ;">Technical Skills:</span>
 
 <span style="font-size: 15px; color: #696969; font-family: 'Avenir Next LT Pro', sans-serif;">**Programming** :</span> <span style="font-size:13px; color:black;  font-family: 'Avenir Next LT Pro', sans-serif;">Proficient in Python, C, Mathematica, and SQL (Structured Query Language).</span> 
