@@ -1,5 +1,5 @@
 <br>
-![Logo](https://raw.githubusercontent.com/AmirSabzalipour/Data_Science/main/images/amir.png){: width="200px"}
+
 
 <div style="background-color: #f7f7f7; border-radius: 20px; padding: 10px;">
 <span style="font-size: 14px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">As a physicist, I develop mathematical models and utilize computer simulations to study material properties for nanoelectronic applications. In addition to computational work on materials, I have also used optical interferometric microscopy to characterize the surface topography of solar cells and optical flats. Finally, I am proud to highlight my solid foundation in data analytics, using data science, machine learning, and optimization techniques throughout my academic career.</span> </div>
