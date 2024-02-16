@@ -4,9 +4,7 @@
   <img src="https://raw.githubusercontent.com/AmirSabzalipour/Data_Science/main/images/me.png" alt="about me" width="200">
  </span>
 </div>
-![about me](https://raw.githubusercontent.com/AmirSabzalipour/Data_Science/main/images/me.png)
-
-<img src="https://raw.githubusercontent.com/AmirSabzalipour/Data_Science/main/images/me.png" alt="about me" width="200">
+<img src="https://raw.githubusercontent.com/AmirSabzalipour/Data_Science/main/images/me.png" alt="about me" width="300">
 
 
 ## <span style="color:#7cafc2 ;">Technical Skills:</span>
