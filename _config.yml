@@ -1,4 +1,4 @@
-title: Amir Sabzalipour
-logo: /images/amir.png
+title: amir
 show_downloads: true
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
+logo: "https://raw.githubusercontent.com/AmirSabzalipour/Data_Science/main/images/amir.png"
