@@ -1,4 +1,4 @@
 title: amir
-logo: <img src="{{ site.logo }}" alt="Logo" style="width: 200px; height: auto;">
+<img src="{{ site.logo }}" alt="Logo" style="width: 200px; height: auto;">
 show_downloads: true
 theme: jekyll-theme-minimal
