@@ -1,4 +1,4 @@
 title: amir
-<img src="{{ site.logo }}" alt="Logo" style="width: 200px; height: auto;">
+<img src="{{https://github.com/AmirSabzalipour/Data_Science/blob/main/images/amir.png}}" alt="Logo" style="width: 200px; height: auto;">
 show_downloads: true
 theme: jekyll-theme-minimal
