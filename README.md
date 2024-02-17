@@ -25,8 +25,7 @@
 <span style="font-size: 15px; color: #696969; font-family: 'Avenir Next LT Pro', sans-serif;">**Mathematical Skills :**</span><span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Wave Theory, Matrix Mechanics, Differential Equations, Statistics, Topology, Functional Analysis, Fourier Transformations, Perturbation theory.
 </span> 
 
-
-## <span style="color:navy;">Education:</span>
+<span style="font-size: 24px; color: #90A4AE ; font-family: 'Avenir Next LT Pro'">Education </span>
 
 <span style="font-size:14px; color:#383838 ;">Ph.D. in Physics:</span> <span style="font-size:13px;">University of Antwerp, Belgium,March 2017 - October 2021</span> 
 - Thesis title: [Charge Transport in Magnetic Topological Insulators](https://repository.uantwerpen.be/docstore/d:irua:8696)
@@ -38,7 +37,8 @@
 <span style="font-size:14px; color:#7cafc2;"> B.Sc. in Physics: </span> <span style="font-size:13px;">University of Tehran, Tehran, September 2003 - April 2008 </span> 
 - Thesis title: Employing Physical Vapor Deposition (PVD) techniques, such as Sputtering and thermal co-evaporation, for nano-coating on thin films.
 <br><br><br>
-## <span style="color:navy;">Work Experience:</span>
+
+<span style="font-size: 24px; color: #90A4AE ; font-family: 'Avenir Next LT Pro'">Work Experience: </span>
 
 Computational Research on Materials
 
@@ -95,7 +95,8 @@ Computational Research on Materials
     - Atomic Force Microscopy characterization of thin films.
     - Producing optical components with λ/4 flatness and interferometric surface characterization.
 
-## <span style="color:navy;">Publications:</span>
+<span style="font-size: 24px; color: #90A4AE ; font-family: 'Avenir Next LT Pro'">Publications </span>
+
 - Dissipationless transport by design in a thin magnetic topological insulator-ferromagnetic heterostructure,   
   *Amir Sabzalipour et. al.* (In preparation).
   
