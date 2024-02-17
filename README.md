@@ -8,7 +8,7 @@
 
 <span style="font-size: 24px; color: #90A4AE ; font-family: 'Avenir Next LT Pro'">Technical Skills </span>
 
-<span style="font-size: 16px; color: #C6DBE5; font-family: 'Avenir Next LT Pro'">Programming:</span> <span style="font-size:14px; color:#92A59A;  font-family: 'Avenir Next LT Pro', sans-serif;">Proficient in Python, C, Mathematica, and SQL (Structured Query Language).</span> 
+<span style="font-size: 16px; color: #92A59A; font-family: 'Avenir Next LT Pro'">Programming:</span> <span style="font-size:14px; color:dimgray;  font-family: 'Avenir Next LT Pro', sans-serif;">Proficient in Python, C, Mathematica, and SQL (Structured Query Language).</span> 
 
 <span style="font-size: 15px; color: #696969; font-family: 'Avenir Next LT Pro', sans-serif;">**Data Science  : ** </span> <span style="font-size:13px;  color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</span> 
 
