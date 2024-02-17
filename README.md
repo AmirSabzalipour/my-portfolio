@@ -12,19 +12,19 @@
 
 <span style="font-size: 16px; color: #a4ae93; font-family: 'Avenir Next LT Pro'">Programming:</span> <span style="font-size:14px; color:dimgray;  font-family: 'Avenir Next LT Pro', sans-serif;">Proficient in Python, C, Mathematica, and SQL (Structured Query Language).</span> 
 
-<span style="font-size: 15px; color: #696969; font-family: 'Avenir Next LT Pro', sans-serif;">**Data Science  : ** </span> <span style="font-size:13px;  color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</span> 
+<span style="font-size: 15px; color: #a4ae93; font-family: 'Avenir Next LT Pro', sans-serif;">Data Science:</span> <span style="font-size:13px;  color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</span> 
 
-<span style="font-size: 15px; color: #696969; font-family: 'Avenir Next LT Pro', sans-serif;">**Machine Learning  : **</span> <span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;"> Skilled in SciKit Learn: Regression, Classification (Random Forests, Support Vector Machines and ..), Natural Language Processing (NLP), Deep Learning and Neural Networks with PyTorch.</span> 
+<span style="font-size: 15px; color: #a4ae93; font-family: 'Avenir Next LT Pro', sans-serif;">Machine Learning:</span> <span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;"> Skilled in SciKit Learn: Regression, Classification (Random Forests, Support Vector Machines and ..), Natural Language Processing (NLP), Deep Learning and Neural Networks with PyTorch.</span> 
 
-<span style="font-size: 15px; color: #696969; font-family: 'Avenir Next LT Pro', sans-serif;">**Optimization : **</span> <span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Employing the Pyomo modeling language and solvers, such as CPLEX and Gurobi, with mixed-integer linear, mixed-integer nonlinear, and linear programming.</span>
+<span style="font-size: 15px; color: #a4ae93; font-family: 'Avenir Next LT Pro', sans-serif;">Optimization:</span> <span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Employing the Pyomo modeling language and solvers, such as CPLEX and Gurobi, with mixed-integer linear, mixed-integer nonlinear, and linear programming.</span>
 
-<span style="font-size: 15px; color: #696969; font-family: 'Avenir Next LT Pro', sans-serif;">**Material Modeling : **</span> <span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Modeling materials through HPC with VASP and Quantum ESPRESSO.</span>
+<span style="font-size: 15px; color: #a4ae93; font-family: 'Avenir Next LT Pro', sans-serif;">Material Modeling:</span> <span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Modeling materials through HPC with VASP and Quantum ESPRESSO.</span>
 
 
-<span style="font-size: 15px; color: #696969; font-family: 'Avenir Next LT Pro', sans-serif;">**Material Characterization : **</span> <span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Using physical vapor deposition (PVD) for nanocoating and characterizing thin films through interferometric methods and Atomic Force Microscopy.
+<span style="font-size: 15px; color: #a4ae93; font-family: 'Avenir Next LT Pro', sans-serif;">Material Characterization:</span> <span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Using physical vapor deposition (PVD) for nanocoating and characterizing thin films through interferometric methods and Atomic Force Microscopy.
 </span>
 
-<span style="font-size: 15px; color: #696969; font-family: 'Avenir Next LT Pro', sans-serif;">**Mathematical Skills : **</span><span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Wave Theory, Matrix Mechanics, Differential Equations, Statistics, Topology, Functional Analysis, Fourier Transformations, Perturbation theory.
+<span style="font-size: 15px; color: #a4ae93; font-family: 'Avenir Next LT Pro', sans-serif;">a4ae93:</span><span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Wave Theory, Matrix Mechanics, Differential Equations, Statistics, Topology, Functional Analysis, Fourier Transformations, Perturbation theory.
 </span> 
 
 <span style="font-size: 24px; color: #90A4AE ; font-family: 'Avenir Next LT Pro'">Education </span>
