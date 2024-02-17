@@ -45,9 +45,9 @@
 
 <span style="font-size: 24px; color: #5b7f95 ; font-family: 'Avenir Next LT Pro'">Work Experience: </span>
 
-## Computational Research on Materials
+### Computational Research on Materials
 
-### Postdoctoral Researcher
+#### Postdoctoral Researcher
   - *University of Antwerp, Antwerp, Belgium, October 2021 - January 2023*
     - Responsibilities:
     - Investigation of the effect of magnetic defects on topological materials' electronic properties.
