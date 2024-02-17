@@ -39,7 +39,7 @@
 - Thesis title: Employing Physical Vapor Deposition (PVD) techniques, such as Sputtering and thermal co-evaporation, for nano-coating on thin films.
 <br><br><br>
 
-<span style="font-size: 24px; color: #90A4AE ; font-family: 'Avenir Next LT Pro'">Work Experience: </span>
+<span style="font-size: 24px; color: #5b7f95 ; font-family: 'Avenir Next LT Pro'">Work Experience: </span>
 
 Computational Research on Materials
 
@@ -96,7 +96,7 @@ Computational Research on Materials
     - Atomic Force Microscopy characterization of thin films.
     - Producing optical components with λ/4 flatness and interferometric surface characterization.
 
-<span style="font-size: 24px; color: #90A4AE ; font-family: 'Avenir Next LT Pro'">Publications </span>
+<span style="font-size: 24px; color: #5b7f95 ; font-family: 'Avenir Next LT Pro'">Publications </span>
 
 - Dissipationless transport by design in a thin magnetic topological insulator-ferromagnetic heterostructure,   
   *Amir Sabzalipour et. al.* (In preparation).
