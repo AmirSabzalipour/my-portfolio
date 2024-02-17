@@ -26,6 +26,9 @@
 <span style="font-size: 15px; color: #52ACF6; font-family: 'Avenir Next LT Pro', sans-serif;">Mathematical Skills:</span><span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Wave Theory, Matrix Mechanics, Differential Equations, Statistics, Topology, Functional Analysis, Fourier Transformations, Perturbation theory.
 </span> 
 
+
+<br><br><br>
+
 <span style="font-size: 24px; color: #5b7f95 ; font-family: 'Avenir Next LT Pro'">Education </span>
 
 <span style="font-size:14px; color:#383838 ;">Ph.D. in Physics:</span> <span style="font-size:13px;">University of Antwerp, Belgium,March 2017 - October 2021</span> 
@@ -37,6 +40,7 @@
 
 <span style="font-size:14px; color:#7cafc2;"> B.Sc. in Physics: </span> <span style="font-size:13px;">University of Tehran, Tehran, September 2003 - April 2008 </span> 
 - Thesis title: Employing Physical Vapor Deposition (PVD) techniques, such as Sputtering and thermal co-evaporation, for nano-coating on thin films.
+
 <br><br><br>
 
 <span style="font-size: 24px; color: #5b7f95 ; font-family: 'Avenir Next LT Pro'">Work Experience: </span>
