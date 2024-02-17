@@ -44,9 +44,10 @@
 <br><br><br>
 
 <span style="font-size: 24px; color: #5b7f95 ; font-family: 'Avenir Next LT Pro'">Work Experience: </span>
-<div style="border-left: 2px solid black; height: 200px;"></div>
 
-### Computational Research on Materials
+<span style="font-size: 17px; color: olive ; font-family: 'Avenir Next LT Pro'">I) Computational Research on Materials: </span>
+
+
 
 #### Postdoctoral Researcher
   - *University of Antwerp, Antwerp, Belgium, October 2021 - January 2023*
