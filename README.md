@@ -9,49 +9,24 @@
 
 ## <span style="color:#7cafc2 ;">Technical Skills:</span>
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Text Alignment Example</title>
-    <style>
-        .skills-table {
-            display: table;
-            width: 100%;
-        }
-        .skills-row {
-            display: table-row;
-        }
-        .skills-cell {
-            display: table-cell;
-            vertical-align: top;
-            padding-right: 20px; /* Adjust this value as needed */
-        }
-        .title {
-            font-size: 15px;
-            color: #696969;
-            font-family: 'Avenir Next LT Pro', sans-serif;
-        }
-        .description {
-            font-size: 13px;
-            color: dimgray;
-            font-family: 'Avenir Next LT Pro', sans-serif;
-        }
-    </style>
-</head>
-<body>
-    <div class="skills-table">
-        <div class="skills-row">
-            <div class="skills-cell title">Programming :</div>
-            <div class="skills-cell description">Proficient in Python, C, Mathematica, and SQL (Structured Query Language).</div>
-        </div>
-        <div class="skills-row">
-            <div class="skills-cell title">Data Science :</div>
-            <div class="skills-cell description">Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</div>
-        </div>
-        <!-- Add more rows for other skills -->
-    </div>
-</body>
-</html>
+
+<span style="font-size: 15px; color: #696969; font-family: 'Avenir Next LT Pro', sans-serif;">**Programming** :</span> <span style="font-size:13px; color:dimgray;  font-family: 'Avenir Next LT Pro', sans-serif;">Proficient in Python, C, Mathematica, and SQL (Structured Query Language).</span> 
+
+<span style="font-size: 15px; color: #696969; font-family: 'Avenir Next LT Pro', sans-serif;">**Data Science** :</span> <span style="font-size:13px;  color:dimgray;">Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</span> 
+
+<span style="font-size: 15px; color: #696969; font-family: 'Avenir Next LT Pro', sans-serif;">**Machine Learning**:</span> <span style="font-size:13px;color:dimgray;"> Skilled in SciKit Learn: Regression, Classification (Random Forests, Support Vector Machines and ..), Natural Language Processing (NLP), Deep Learning and Neural Networks with PyTorch.</span> 
+
+<span style="font-size: 15px; color: #696969; font-family: 'Avenir Next LT Pro', sans-serif;">**Optimization :**</span> <span style="font-size:13px;color:dimgray;">Employing the Pyomo modeling language and solvers, such as CPLEX and Gurobi, with mixed-integer linear, mixed-integer nonlinear, and linear programming.</span>
+
+<span style="font-size: 15px; color: #696969; font-family: 'Avenir Next LT Pro', sans-serif;">**Material Modeling :**</span> <span style="font-size:13px;color:dimgray;">Modeling materials through HPC with VASP and Quantum ESPRESSO.</span>
+
+
+<span style="font-size: 15px; color: #696969; font-family: 'Avenir Next LT Pro', sans-serif;">**Material Characterization :**</span> <span style="font-size:13px;color:dimgray;">Using physical vapor deposition (PVD) for nanocoating and characterizing thin films through interferometric methods and Atomic Force Microscopy.
+</span>
+
+<span style="font-size: 15px; color: #696969; font-family: 'Avenir Next LT Pro', sans-serif;">**Mathematical Skills :**</span><span style="font-size:13px;color:dimgray;">Wave Theory, Matrix Mechanics, Differential Equations, Statistics, Topology, Functional Analysis, Fourier Transformations, Perturbation theory.
+</span> 
+
 
 ## <span style="color:navy;">Education:</span>
 
