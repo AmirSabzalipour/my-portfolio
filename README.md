@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/AmirSabzalipour/Data_Science/main/images/me.png" alt="about me" width="230">
 <br><br><br>
 
-## <span style="color:#8c9c76 ;">Technical Skills:</span>
+## <span style="color:#bcc5d6 ;">Technical Skills:</span>
 
 
 <span style="font-size: 15px; color: gray; font-family: 'Avenir Next LT Pro'">**Programming** :</span> <span style="font-size:13px; color:dimgray;  font-family: 'Avenir Next LT Pro', sans-serif;">Proficient in Python, C, Mathematica, and SQL (Structured Query Language).</span> 
