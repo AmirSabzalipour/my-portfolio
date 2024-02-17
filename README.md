@@ -24,10 +24,10 @@
 <span style="font-size: 15px; color: #52ACF6; font-family: 'Avenir Next LT Pro', sans-serif;">Material Characterization:</span> <span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Using physical vapor deposition (PVD) for nanocoating and characterizing thin films through interferometric methods and Atomic Force Microscopy.
 </span>
 
-<span style="font-size: 15px; color: #52ACF6; font-family: 'Avenir Next LT Pro', sans-serif;">a4ae93:</span><span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Wave Theory, Matrix Mechanics, Differential Equations, Statistics, Topology, Functional Analysis, Fourier Transformations, Perturbation theory.
+<span style="font-size: 15px; color: #52ACF6; font-family: 'Avenir Next LT Pro', sans-serif;">Mathematical Skills:</span><span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Wave Theory, Matrix Mechanics, Differential Equations, Statistics, Topology, Functional Analysis, Fourier Transformations, Perturbation theory.
 </span> 
 
-<span style="font-size: 24px; color: #52ACF6 ; font-family: 'Avenir Next LT Pro'">Education </span>
+<span style="font-size: 24px; color: navy ; font-family: 'Avenir Next LT Pro'">Education </span>
 
 <span style="font-size:14px; color:#383838 ;">Ph.D. in Physics:</span> <span style="font-size:13px;">University of Antwerp, Belgium,March 2017 - October 2021</span> 
 - Thesis title: [Charge Transport in Magnetic Topological Insulators](https://repository.uantwerpen.be/docstore/d:irua:8696)
