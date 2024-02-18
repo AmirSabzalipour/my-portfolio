@@ -6,8 +6,7 @@
 <img src="https://raw.githubusercontent.com/AmirSabzalipour/Data_Science/main/images/me.png" alt="about me" width="230">
 <br><br><br>
 <div style="border-radius: 20px;width: 200px; padding: 10px; border: 1px solid #bdd7e7;">
- <br> 
-  <span style="font-size: 20px; color:#2171b5 ; font-family: 'Avenir Next LT Pro'">Technical Skills</span></div>
+ <span style="font-size: 20px; color:#2171b5 ; font-family: 'Avenir Next LT Pro'">Technical Skills</span></div> <br> 
 <span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro'">Programming:</span> <span style="font-size:14px; color:dimgray;  font-family: 'Avenir Next LT Pro', sans-serif;">Proficient in Python, C, Mathematica, and SQL (Structured Query Language).</span> <br>
 -------------------------------------------------------------------------------------------------------<br>
 <span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Data Science:</span> <span style="font-size:11px;  color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</span> <br>
