@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/AmirSabzalipour/Data_Science/main/images/me.png" alt="about me" width="230">
 <br><br><br>
 
-<span style="font-size: 24px; color:#5b7f95 ; font-family: 'Avenir Next LT Pro'">Technical Skills</span>
+<span style="font-size: 24px; color:#318CE7 ; font-family: 'Avenir Next LT Pro'">Technical Skills</span>
 
 <span style="font-size: 16px; color: #6baed6; font-family: 'Avenir Next LT Pro'">Programming:</span> <span style="font-size:14px; color:dimgray;  font-family: 'Avenir Next LT Pro', sans-serif;">Proficient in Python, C, Mathematica, and SQL (Structured Query Language).</span> 
 
@@ -17,13 +17,13 @@
 
 <span style="font-size: 15px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Optimization:</span> <span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Employing the Pyomo modeling language and solvers, such as CPLEX and Gurobi, with mixed-integer linear, mixed-integer nonlinear, and linear programming.</span>
 
-<span style="font-size: 15px; color: #bdd7e7; font-family: 'Avenir Next LT Pro', sans-serif;">Material Modeling:</span> <span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Modeling materials through HPC with VASP and Quantum ESPRESSO.</span>
+<span style="font-size: 15px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Material Modeling:</span> <span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Modeling materials through HPC with VASP and Quantum ESPRESSO.</span>
 
 
-<span style="font-size: 15px; color: #bdd7e7; font-family: 'Avenir Next LT Pro', sans-serif;">Material Characterization:</span> <span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Using physical vapor deposition (PVD) for nanocoating and characterizing thin films through interferometric methods and Atomic Force Microscopy.
+<span style="font-size: 15px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Material Characterization:</span> <span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Using physical vapor deposition (PVD) for nanocoating and characterizing thin films through interferometric methods and Atomic Force Microscopy.
 </span>
 
-<span style="font-size: 15px; color: #318CE7; font-family: 'Avenir Next LT Pro', sans-serif;">Mathematical Skills:</span><span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Wave Theory, Matrix Mechanics, Differential Equations, Statistics, Topology, Functional Analysis, Fourier Transformations, Perturbation theory.
+<span style="font-size: 15px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Mathematical Skills:</span><span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Wave Theory, Matrix Mechanics, Differential Equations, Statistics, Topology, Functional Analysis, Fourier Transformations, Perturbation theory.
 </span> 
 
 
