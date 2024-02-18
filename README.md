@@ -43,12 +43,13 @@
 
 <br><br><br>
 
-<span style="font-size: 24px; color: #5b7f95 ; font-family: 'Avenir Next LT Pro'">Work Experience: </span>
+<span style="font-size: 24px; color: #5b7f95 ; font-family: 'Avenir Next LT Pro'"> Work Experience: </span>
 <br><br>
 <span style="font-size: 18px; color: gray ; font-family: 'Avenir Next LT Pro'">I) Computational Research on Materials </span>
 
-<span style="font-size: 14px; color: #52ACF6 ; font-family: 'Avenir Next LT Pro'">I) I-1) Postdoctoral Researcher, </span>
-<span style="font-size: 13px; color: #52ACF6 ; font-family: 'Avenir Next LT Pro';style="font-variant: small-caps;">University of Antwerp, Antwerp, Belgium, October 2021 - January 2023</span>
+<span style="font-size: 14px; color: #52ACF6 ; font-family: 'Avenir Next LT Pro'">I) I-1) Postdoctoral Researcher</span>
+
+<font size="3" color="#52ACF6" face="'Avenir Next LT Pro'">University of Antwerp, Antwerp, Belgium, October 2021 - January 2023</font>
 
 <span style="font-size: 13px; color: gray; font-family: 'Avenir Next LT Pro'">I) I-1) Postdoctoral Researcher </span> University of Antwerp, Antwerp, Belgium, October 2021 - January 2023
     - Responsibilities:
