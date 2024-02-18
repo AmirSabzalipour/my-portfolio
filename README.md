@@ -45,7 +45,7 @@
 
 <span style="font-size: 24px; color: #5b7f95 ; font-family: 'Avenir Next LT Pro'">Work Experience: </span>
 <br><br>
-<span style="font-size: 17px; color: olive ; font-family: 'Avenir Next LT Pro'">I) Computational Research on Materials: </span>
+<span style="font-size: 17px; color: gray ; font-family: 'Avenir Next LT Pro'">I) Computational Research on Materials: </span>
 
 
 
