@@ -8,6 +8,7 @@
 <span style="font-size: 24px; color:#2171b5 ; font-family: 'Avenir Next LT Pro'">Technical Skills</span>
 <br><br>
 <span style="font-size: 16px; color: #6baed6; font-family: 'Avenir Next LT Pro'">Programming:</span> <span style="font-size:14px; color:dimgray;  font-family: 'Avenir Next LT Pro', sans-serif;">Proficient in Python, C, Mathematica, and SQL (Structured Query Language).</span> 
+
 <span style="font-size: 15px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Data Science:</span> <span style="font-size:13px;  color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</span> 
 
 <span style="font-size: 15px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Machine Learning:</span> <span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;"> Skilled in SciKit Learn: Regression, Classification (Random Forests, Support Vector Machines and ..), Natural Language Processing (NLP), Deep Learning and Neural Networks with PyTorch.</span> 
@@ -19,6 +20,7 @@
 <span style="font-size: 15px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Material Characterization:</span>
 <span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Using physical vapor deposition (PVD) for nanocoating and characterizing thin films through interferometric methods and Atomic Force Microscopy.
 </span>
+
 <span style="font-size: 15px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Mathematical Skills:</span><span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Wave Theory, Matrix Mechanics, Differential Equations, Statistics, Topology, Functional Analysis, Fourier Transformations, Perturbation theory.
 </span> 
 
@@ -27,14 +29,17 @@
 
 <span style="font-size: 25px; color: #2171b5 ; font-family: 'Avenir Next LT Pro'">Education </span>
 
-<span style="font-size:13px;color:#2F7A9F; font-family: 'Avenir Next LT Pro', sans-serif;">Ph.D. in Physics, March 2017 - October 2021</span>
-<span style="font-size:11px;">University of Antwerp, Belgium</span> 
+<span style="font-size:15px;color:#2F7A9F; font-family: 'Avenir Next LT Pro', sans-serif;">Ph.D. in Physics, March 2017 - October 2021</span>
 
-<span style="font-size:12px;color:#6baed6; font-family: 'Avenir Next LT Pro', sans-serif;"> M.Sc. in Physics,September 2011 - April 2014</span>
-<span style="font-size:11px;">Institute for Advanced Studies in Basic Science, Zanjan, Iran, </span> 
+<span style="font-size:12px;">University of Antwerp, Belgium</span> 
 
-<span style="font-size:12px;color:#6baed6; font-family: 'Avenir Next LT Pro', sans-serif;"> B.Sc. in Physics, September 2003 - April 2008 </span> 
-<span style="font-size:11px;">University of Tehran, Tehran, </span> 
+<span style="font-size:15px;color:#6baed6; font-family: 'Avenir Next LT Pro', sans-serif;"> M.Sc. in Physics,September 2011 - April 2014</span>
+
+<span style="font-size:12px;">Institute for Advanced Studies in Basic Science, Zanjan, Iran </span> 
+
+<span style="font-size:15px;color:#6baed6; font-family: 'Avenir Next LT Pro', sans-serif;"> B.Sc. in Physics, September 2003 - April 2008 </span> 
+
+<span style="font-size:12px;">University of Tehran, Tehran</span> 
 
 <span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">- Thesis title: [Charge Transport in Magnetic Topological Insulators](https://repository.uantwerpen.be/docstore/d:irua:8696) </span>
 <span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">-Thesis title: Studying Spin-Orbit interaction's effect on the anisotropic properties of materials. </span>
