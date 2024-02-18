@@ -29,8 +29,7 @@
 
 <span style="font-size: 25px; color: #2171b5 ; font-family: 'Avenir Next LT Pro'">Education </span>
 
-<span style="font-size:15px;color:#2F7A9F; font-family: 'Avenir Next LT Pro', sans-serif;">Ph.D. in Physics, March 2017 - October 2021</span>
-
+<span style="font-size:15px;color:#2F7A9F; font-family: 'Avenir Next LT Pro', sans-serif;">Ph.D. in Physics, March 2017 - October 2021</span><br>
 <span style="font-size:12px;">University of Antwerp, Belgium</span> 
 
 <span style="font-size:15px;color:#6baed6; font-family: 'Avenir Next LT Pro', sans-serif;"> M.Sc. in Physics,September 2011 - April 2014</span>
