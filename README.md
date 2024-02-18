@@ -42,11 +42,11 @@
 - Thesis title: Employing Physical Vapor Deposition (PVD) techniques, such as Sputtering and thermal co-evaporation, for nano-coating on thin films.
 
 <br><br><br>
-<span style="font-size: 25px; color: #5b7f95 ; font-family: 'Avenir Next LT Pro'"> Work Experience: </span>
+<span style="font-size: 25px; color: #2171b5 ; font-family: 'Avenir Next LT Pro'"> Work Experience: </span>
 <br><br>
-<span style="font-size: 15px; color: #318CE7 ; font-family: 'Avenir Next LT Pro'">I) Computational Research on Materials </span>
+<span style="font-size: 15px; color: #6baed6 ; font-family: 'Avenir Next LT Pro'">I) Computational Research on Materials </span>
 
-<span style="font-size: 14px; color: olive ; font-family: 'Avenir Next LT Pro'"> I-1) Postdoctoral Researcher</span>
+<span style="font-size: 14px; color: #aaaaaa ; font-family: 'Avenir Next LT Pro'"> I-1) Postdoctoral Researcher</span>
 <span style="font-size: 12px; color: gray ; font-family: 'Avenir Next LT Pro'"> University of Antwerp, Antwerp, Belgium, October 2021 - January 2023</span>
 - <span style="font-size:13px; color:dimgray;  font-family: 'Avenir Next LT Pro', sans-serif;">Investigation of the effect of magnetic defects on topological materials' electronic properties.</span> 
 - <span style="font-size:13px; color:dimgray;  font-family: 'Avenir Next LT Pro', sans-serif;"> Designing topological heterostructures with the aim of minimizing electrical energy losses.</span> 
