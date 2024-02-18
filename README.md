@@ -9,7 +9,7 @@
 <br><br>
 <span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro'">Programming:</span> <span style="font-size:14px; color:dimgray;  font-family: 'Avenir Next LT Pro', sans-serif;">Proficient in Python, C, Mathematica, and SQL (Structured Query Language).</span> <br>
 -------------------------------------------------------------------------------------------------------<br>
-<span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Data Science:</span> <span style="font-size:13px;  color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</span> <br>
+<span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Data Science:</span> <span style="font-size:11px;  color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</span> <br>
 -------------------------------------------------------------------------------------------------------
 <br>
 <span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Machine Learning:</span> <span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;"> Skilled in SciKit Learn: Regression, Classification (Random Forests, Support Vector Machines and ..), Natural Language Processing (NLP), Deep Learning and Neural Networks with PyTorch.</span> <br>
