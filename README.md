@@ -45,12 +45,10 @@
 
 <span style="font-size: 24px; color: #5b7f95 ; font-family: 'Avenir Next LT Pro'">Work Experience: </span>
 <br><br>
-<span style="font-size: 17px; color: gray ; font-family: 'Avenir Next LT Pro'">I) Computational Research on Materials: </span>
+<span style="font-size: 18px; color: gray ; font-family: 'Avenir Next LT Pro'">I) Computational Research on Materials </span>
 
-
-
-#### Postdoctoral Researcher
-  - *University of Antwerp, Antwerp, Belgium, October 2021 - January 2023*
+<span style="font-size: 14px; color: #52ACF6 ; font-family: 'Avenir Next LT Pro'">I) I-1) Postdoctoral Researcher </span>
+ University of Antwerp, Antwerp, Belgium, October 2021 - January 2023
     - Responsibilities:
     - Investigation of the effect of magnetic defects on topological materials' electronic properties.
     - Designing topological heterostructures with the aim of minimizing electrical energy losses.
