@@ -34,6 +34,8 @@
 <span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Ph.D. in Physics:
 </span> <span style="font-size:13px;">University of Antwerp, Belgium,March 2017 - October 2021</span> 
 
+<span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;"><span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">- Thesis title: [Charge Transport in Magnetic Topological Insulators](https://repository.uantwerpen.be/docstore/d:irua:8696) </span>
+
 - Thesis title: [Charge Transport in Magnetic Topological Insulators](https://repository.uantwerpen.be/docstore/d:irua:8696)
 
 
