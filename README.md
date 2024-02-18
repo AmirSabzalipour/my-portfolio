@@ -27,13 +27,13 @@
 
 <span style="font-size: 25px; color: #2171b5 ; font-family: 'Avenir Next LT Pro'">Education </span>
 
-<span style="font-size:13px;color:#52ACF6; font-family: 'Avenir Next LT Pro', sans-serif;">Ph.D. in Physics, March 2017 - October 2021</span>
+<span style="font-size:13px;color:#6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Ph.D. in Physics, March 2017 - October 2021</span>
 <span style="font-size:11px;">University of Antwerp, Belgium</span> 
 
-<span style="font-size:12px;color:olive; font-family: 'Avenir Next LT Pro', sans-serif;"> M.Sc. in Physics,September 2011 - April 2014</span>
+<span style="font-size:12px;color:#6baed6; font-family: 'Avenir Next LT Pro', sans-serif;"> M.Sc. in Physics,September 2011 - April 2014</span>
 <span style="font-size:11px;">Institute for Advanced Studies in Basic Science, Zanjan, Iran, </span> 
 
-<span style="font-size:12px;color:olive; font-family: 'Avenir Next LT Pro', sans-serif;"> B.Sc. in Physics, September 2003 - April 2008 </span> 
+<span style="font-size:12px;color:#6baed6; font-family: 'Avenir Next LT Pro', sans-serif;"> B.Sc. in Physics, September 2003 - April 2008 </span> 
 <span style="font-size:11px;">University of Tehran, Tehran, </span> 
 
 <span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">- Thesis title: [Charge Transport in Magnetic Topological Insulators](https://repository.uantwerpen.be/docstore/d:irua:8696) </span>
