@@ -43,8 +43,8 @@
 <br><br>
 <ul style="list-style-type: none; padding-left: 0;">
   <li>
-    <span style="font-size: 13px; color: #6baed6 ; font-family: 'Avenir Next LT Pro'"> I) Computational Research on Materials</span><br>
-    <ul style="list-style-type: none; padding-left: 20px;">
+    <span style="font-size: 14px; color: #6baed6 ; font-family: 'Avenir Next LT Pro'"> I) Computational Research on Materials</span><br>
+    <ul style="list-style-type: none; padding-left: 20px;"><br>
      
       <li>
         <span style="font-size: 13px; color: #94AE7D ; font-family: 'Avenir Next LT Pro'">I-1) Postdoctoral Researcher</span><br>
