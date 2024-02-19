@@ -38,7 +38,7 @@
 
 
 <span style="font-size:15px;color:#94AE7D; font-family: 'Avenir Next LT Pro', sans-serif;"> B.Sc. in Physics</span><br>
-<span style="font-size:12px;#5b7f95"> Thesis: Employing Physical Vapor Deposition (PVD) techniques, such as Sputtering and thermal co-evaporation, for nano-coating on thin films.</span><br>
+<span style="font-size:12px;color:#5b7f95"> Thesis: Employing Physical Vapor Deposition (PVD) techniques, such as Sputtering and thermal co-evaporation, for nano-coating on thin films.</span><br>
 <span style="font-size:11px;">September 2003 - April 2008  University of Tehran, Tehran</span> 
 <br><br><br>
 <span style="font-size: 25px; color: #2171b5 ; font-family: 'Avenir Next LT Pro'"> Work Experience: </span>
