@@ -43,37 +43,28 @@
 <br><br>
 <ul style="list-style-type: none; padding-left: 0;">
   <li>
-    <span style="font-size: 13px; color: #94AE7D ; font-family: 'Avenir Next LT Pro'">Computational Research on Materials</span><br>
+    <span style="font-size: 13px; color: #94AE7D ; font-family: 'Avenir Next LT Pro'"> I) Computational Research on Materials</span><br>
     <ul style="list-style-type: none; padding-left: 20px;">
       <li>
-        <span style="font-size: 13px; color: #94AE7D ; font-family: 'Avenir Next LT Pro'">Postdoctoral Researcher</span><br>
-        <span style="font-size: 10px; color: gray ; font-family: 'Avenir Next LT Pro'">University of Antwerp, Antwerp, Belgium, October 2021 - January 2023</span>
+        <span style="font-size: 13px; color: #94AE7D ; font-family: 'Avenir Next LT Pro'">I-1) Postdoctoral Researcher</span><br>
+        <span style="font-size: 10px; color: gray ; font-family: 'Avenir Next LT Pro'">University of Antwerp, Antwerp, Belgium, October 2021 - 
+          January 2023</span>
       </li>
       <li>
-        <span style="font-size: 13px; color: #94AE7D ; font-family: 'Avenir Next LT Pro'">Doctoral Researcher</span><br>
-        <span style="font-size: 10px; color: gray ; font-family: 'Avenir Next LT Pro'">University of Antwerp, Antwerp, Belgium, March 2017 - October 2021</span>
+        <span style="font-size: 13px; color: #94AE7D ; font-family: 'Avenir Next LT Pro'">I-2) Doctoral Researcher</span><br>
+        <span style="font-size: 10px; color: gray ; font-family: 'Avenir Next LT Pro'">University of Antwerp, Antwerp, Belgium, March 2017 - 
+        October 2021</span>
       </li>
-    </ul>
+       <li>
+      <span style="font-size: 13px; color: #94AE7D ; font-family: 'Avenir Next LT Pro'">1-3) Visiting Researcher</span><br>
+     <span style="font-size: 10px; color: gray ; font-family: 'Avenir Next LT Pro'">Institute for Research in Fundamental Sciences, Iran, 
+      February 2016 - February 2017</span>
   </li>
   <li>
-    <span style="font-size: 13px; color: #94AE7D ; font-family: 'Avenir Next LT Pro'">Visiting Researcher</span><br>
-    <span style="font-size: 10px; color: gray ; font-family: 'Avenir Next LT Pro'">Institute for Research in Fundamental Sciences, Iran, February 2016 - February 2017</span>
-  </li>
-  <li>
-    <span style="font-size: 13px; color: #94AE7D ; font-family: 'Avenir Next LT Pro'">Visiting Researcher</span><br>
+    <span style="font-size: 13px; color: #94AE7D ; font-family: 'Avenir Next LT Pro'">1-4) Visiting Researcher</span><br>
     <span style="font-size: 10px; color: gray ; font-family: 'Avenir Next LT Pro'">Uppsala University, Uppsala, Sweden, October 2015 - January 2016</span>
   </li>
 </ul>
-
-  - *University of Antwerp, Antwerp, Belgium*
-  - March 2017 - October 2021
-  - Responsibilities:
-    - Modeling materials at the atomic level using VASP simulation package on an HPC cluster.
-    - Studying how substrate and gate voltage affect quantum transport in thin films of materials.
-    - Conducting numeric and analytical computations utilizing the Wolfram Language and Python.
-    - Analysis, visualization, scientific writing, and publishing the result.
-
-
 
 
 -<span style="font-size: 13px; color: #6baed6 ; font-family: 'Avenir Next LT Pro'">I) Computational Research on Materials </span><br>
