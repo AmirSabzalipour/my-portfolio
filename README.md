@@ -35,9 +35,9 @@
 <span style="font-size:15px;color:#94AE7D; font-family: 'Avenir Next LT Pro', sans-serif;"> B.Sc. in Physics</span><br>
 <span style="font-size:12px;">September 2003 - April 2008  University of Tehran, Tehran</span> 
 
--<span style="font-size:13px;color:#909F90; font-family: 'Avenir Next LT Pro', sans-serif;">- Ph.D. Thesis title: Charge Transport in Magnetic Topological Insulators </span><br>
--<span style="font-size:13px;color:#909F90; font-family: 'Avenir Next LT Pro', sans-serif;">-M.Sc. Thesis title: Studying Spin-Orbit interaction's effect on the anisotropic properties of materials. </span><br>
--<span style="font-size:13px;color:#909F90; font-family: 'Avenir Next LT Pro', sans-serif;">-M.Sc.Thesis title: Employing Physical Vapor Deposition (PVD) techniques, such as Sputtering and thermal co-evaporation, for nano-coating on thin films.</span>
+-<span style="font-size:13px;color:#E3DFD5; font-family: 'Avenir Next LT Pro', sans-serif;">-Ph.D. Thesis title: Charge Transport in Magnetic Topological Insulators </span><br>
+-<span style="font-size:13px;color:#E3DFD5; font-family: 'Avenir Next LT Pro', sans-serif;">-M.Sc. Thesis title: Studying Spin-Orbit interaction's effect on the anisotropic properties of materials. </span><br>
+-<span style="font-size:13px;color:#E3DFD5; font-family: 'Avenir Next LT Pro', sans-serif;">-M.Sc.Thesis title: Employing Physical Vapor Deposition (PVD) techniques, such as Sputtering and thermal co-evaporation, for nano-coating on thin films.</span>
 
 
 <br><br><br>
