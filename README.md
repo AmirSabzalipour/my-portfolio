@@ -43,6 +43,26 @@
 
 <div style="border-radius: 20px;background-color: #f7f7f7;width: 170px; padding-left: 20px; padding-right: 20px; padding-top: 7px; padding-bottom: 7px; border: 1px solid #CCCCCC;"><span style="font-size: 20px; color: #2171b5 ; font-family: 'Avenir Next LT Pro'">  Work Experience </span></div>
 <br><br>
+
+ ### <div style="border-radius: 20px;background-color: #f7f7f7;width: 170px; padding-left: 20px; padding-right: 20px; padding-top: 7px; padding-bottom: 7px; border: 1px solid #CCCCCC;"><span style="font-size: 20px; color: #2171b5 ; font-family: 'Avenir Next LT Pro'">  Work Experience </span></div>**
+  - *University of Antwerp, Antwerp, Belgium*
+  - March 2017 - October 2021
+  - Responsibilities:
+    - Modeling materials at the atomic level using VASP simulation package on an HPC cluster.
+    - Studying how substrate and gate voltage affect quantum transport in thin films of materials.
+    - Conducting numeric and analytical computations utilizing the Wolfram Language and Python.
+    - Analysis, visualization, scientific writing, and publishing the result.
+
+
+
+
+
+
+
+
+
+
+
 <span style="font-size: 13px; color: #6baed6 ; font-family: 'Avenir Next LT Pro'">I) Computational Research on Materials </span><br>
 <span style="font-size: 13px; color: #94AE7D ; font-family: 'Avenir Next LT Pro'"> I-1) Postdoctoral Researcher</span><br>
 <span style="font-size: 10px; color: gray ; font-family: 'Avenir Next LT Pro'"> University of Antwerp, Antwerp, Belgium, October 2021 - January 2023</span><br>
