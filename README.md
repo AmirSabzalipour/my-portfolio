@@ -41,21 +41,23 @@
 <span style="font-size:11px;">September 2003 - April 2008  University of Tehran, Tehran</span> 
 <br><br><br>
 
-<div style="border-radius: 20px;background-color: #f7f7f7;width: 170px; padding-left: 20px; padding-right: 20px; padding-top: 7px; padding-bottom: 7px; border: 1px solid #CCCCCC;"><span style="font-size: 20px; color: #2171b5 ; font-family: 'Avenir Next LT Pro'">  Work Experience: </span></div>
+<div style="border-radius: 20px;background-color: #f7f7f7;width: 170px; padding-left: 20px; padding-right: 20px; padding-top: 7px; padding-bottom: 7px; border: 1px solid #CCCCCC;"><span style="font-size: 20px; color: #2171b5 ; font-family: 'Avenir Next LT Pro'">  Work Experience </span></div>
 <br><br>
 <span style="font-size: 13px; color: #6baed6 ; font-family: 'Avenir Next LT Pro'">I) Computational Research on Materials </span>
 
 <span style="font-size: 12px; color: #add8e6 ; font-family: 'Avenir Next LT Pro'"> I-1) Postdoctoral Researcher</span>
 <span style="font-size: 10px; color: gray ; font-family: 'Avenir Next LT Pro'"> University of Antwerp, Antwerp, Belgium, October 2021 - January 2023</span>
-
 <span style="font-size: 12px; color: #add8e6 ; font-family: 'Avenir Next LT Pro'"> I-2) Doctoral Researcher, </span>
 <span style="font-size: 10px; color: gray ; font-family: 'Avenir Next LT Pro'">- University of Antwerp, Antwerp, Belgium, March 2017 - October 2021 </span>
-
 <span style="font-size: 12px; color: #add8e6 ; font-family: 'Avenir Next LT Pro'"> I-3) Visiting Researcher, </span>
 <span style="font-size: 10px; color: gray ; font-family: 'Avenir Next LT Pro'">-Institute for Research in Fundamental Sciences, Iran, February 2016 - February 2017 </span>
-
-<span style="font-size: 12px; color: #add8e6 ; font-family: 'Avenir Next LT Pro'"> I-3) Visiting Researcher, </span>
+<span style="font-size: 12px; color: #add8e6 ; font-family: 'Avenir Next LT Pro'"> I-4) Visiting Researcher, </span>
 <span style="font-size: 10px; color: gray ; font-family: 'Avenir Next LT Pro'"> Uppsala University, Uppsala, Sweden, October 2015 - January 2016 </span>
+
+
+
+
+
 
 
 - <span style="font-size:13px; color:dimgray;  font-family: 'Avenir Next LT Pro', sans-serif;">Investigation of the effect of magnetic defects on topological materials' electronic properties.</span> 
