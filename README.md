@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/AmirSabzalipour/Data_Science/main/images/me.png" alt="about me" width="230">
 <br><br><br>
 <div style="border-radius: 20px;width: 145px; padding: 10px; border: 1px solid #bdd7e7;">
- <span style="font-size: 20px; color:#2171b5 ; font-family: 'Avenir Next LT Pro'">Technical Skills</span></div> <br> 
+ <span style="font-size: 20px; color:#2171b5 ; font-family: 'Avenir Next LT Pro'">&nbsp&nbspTechnical Skills</span></div> <br> 
 <span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro'">Programming:</span> <span style="font-size:13px; color:dimgray;  font-family: 'Avenir Next LT Pro', sans-serif;">Proficient in Python, C, Mathematica, and SQL (Structured Query Language).</span> <br>
 -------------------------------------------------------------------------------------------------------<br>
 <span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Data Science:</span> <span style="font-size:13px;  color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</span> <br>
@@ -25,8 +25,8 @@
 
 
 <br><br><br>
-<div style="border-radius: 20px;width: 135px; padding: 10px; border: 1px solid #bdd7e7;">
- <span style="font-size: 20px; color:#2171b5 ; font-family: 'Avenir Next LT Pro'">Education</span></div> <br> 
+<div style="border-radius: 20px;width: 135px; padding: 13px; border: 1px solid #bdd7e7;">
+ <span style="font-size: 20px; color:#2171b5 ; font-family: 'Avenir Next LT Pro'">&nbsp&nbspEducation</span></div> <br> 
 <span style="font-size:15px;color:#94AE7D; font-family: 'Avenir Next LT Pro', sans-serif;">Ph.D. in Physics,</span><br>
 <span style="font-size:12px; color:#5b7f95"> Thesis: Charge Transport in Magnetic Topological Insulators</span>
 <br> <span style="font-size:11px;"> March 2017-October 2021, University of Antwerp, Belgium</span> <br> 
@@ -41,7 +41,7 @@
 <span style="font-size:12px;color:#5b7f95"> Thesis: Employing Physical Vapor Deposition (PVD) techniques, such as Sputtering and thermal co-evaporation, for nano-coating on thin films.</span><br>
 <span style="font-size:11px;">September 2003 - April 2008  University of Tehran, Tehran</span> 
 <br><br><br>
-<span style="font-size: 25px; color: #2171b5 ; font-family: 'Avenir Next LT Pro'"> Work Experience: </span>
+<span style="font-size: 25px; color: #2171b5 ; font-family: 'Avenir Next LT Pro'"> &nbsp&nbsp Work Experience: </span>
 <br><br>
 <span style="font-size: 13px; color: #6baed6 ; font-family: 'Avenir Next LT Pro'">I) Computational Research on Materials </span>
 
