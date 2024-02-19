@@ -27,13 +27,13 @@
 <br><br><br>
 <div style="border-radius: 20px;width: 135px; padding: 10px; border: 1px solid #bdd7e7;">
  <span style="font-size: 20px; color:#2171b5 ; font-family: 'Avenir Next LT Pro'">Education</span></div> <br> 
-<span style="font-size:15px;color:#94AE7D; font-family: 'Avenir Next LT Pro', sans-serif;">Ph.D. in Physics,</span><br> <span style="font-size:11px;"> March 2017-October 2021, University of Antwerp, Belgium</span> 
+<span style="font-size:15px;color:#94AE7D; font-family: 'Avenir Next LT Pro', sans-serif;">Ph.D. in Physics,</span><br> <span style="font-size:12px;"> March 2017-October 2021, University of Antwerp, Belgium</span> 
 
 <span style="font-size:15px;color:#94AE7D; font-family: 'Avenir Next LT Pro', sans-serif;"> M.Sc. in Physics</span>
-<br><span style="font-size:11px;">September 2011-April 2014, Institute for Advanced Studies in Basic Science, Zanjan, Iran </span> 
+<br><span style="font-size:12px;">September 2011-April 2014, Institute for Advanced Studies in Basic Science, Zanjan, Iran </span> 
 
 <span style="font-size:15px;color:#94AE7D; font-family: 'Avenir Next LT Pro', sans-serif;"> B.Sc. in Physics</span><br>
-<span style="font-size:11px;">September 2003 - April 2008  University of Tehran, Tehran</span> 
+<span style="font-size:12px;">September 2003 - April 2008  University of Tehran, Tehran</span> 
 
 <span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">- Thesis title: [Charge Transport in Magnetic Topological Insulators](https://repository.uantwerpen.be/docstore/d:irua:8696) </span>
 <span style="font-size:13px;color:dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">-Thesis title: Studying Spin-Orbit interaction's effect on the anisotropic properties of materials. </span>
