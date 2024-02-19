@@ -43,8 +43,9 @@
 <br><br>
 <ul style="list-style-type: none; padding-left: 0;">
   <li>
-    <span style="font-size: 13px; color: #94AE7D ; font-family: 'Avenir Next LT Pro'"> I) Computational Research on Materials</span><br>
+    <span style="font-size: 13px; color: #6baed6 ; font-family: 'Avenir Next LT Pro'"> I) Computational Research on Materials</span><br>
     <ul style="list-style-type: none; padding-left: 20px;">
+     
       <li>
         <span style="font-size: 13px; color: #94AE7D ; font-family: 'Avenir Next LT Pro'">I-1) Postdoctoral Researcher</span><br>
         <span style="font-size: 10px; color: gray ; font-family: 'Avenir Next LT Pro'">University of Antwerp, Antwerp, Belgium, October 2021 - 
