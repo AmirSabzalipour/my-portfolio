@@ -27,8 +27,10 @@
 <br><br><br>
 <div style="border-radius: 20px;width: 135px; padding: 10px; border: 1px solid #bdd7e7;">
  <span style="font-size: 20px; color:#2171b5 ; font-family: 'Avenir Next LT Pro'">Education</span></div> <br> 
-<span style="font-size:15px;color:#94AE7D; font-family: 'Avenir Next LT Pro', sans-serif;">Ph.D. in Physics,</span><br> <span style="font-size:12px;"> March 2017-October 2021, University of Antwerp, Belgium</span> <br> 
+<span style="font-size:15px;color:#94AE7D; font-family: 'Avenir Next LT Pro', sans-serif;">Ph.D. in Physics,</span><br>
 <span style="font-size:12px;"> Thesis: Charge Transport in Magnetic Topological Insulators</span>
+<br> <span style="font-size:10px;"> March 2017-October 2021, University of Antwerp, Belgium</span> <br> 
+
 
 <span style="font-size:15px;color:#94AE7D; font-family: 'Avenir Next LT Pro', sans-serif;"> M.Sc. in Physics</span>
 <br><span style="font-size:12px;">September 2011-April 2014, Institute for Advanced Studies in Basic Science, Zanjan, Iran </span> <br> 
