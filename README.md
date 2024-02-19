@@ -32,17 +32,11 @@
 
 <span style="font-size:15px;color:#94AE7D; font-family: 'Avenir Next LT Pro', sans-serif;"> M.Sc. in Physics</span>
 <br><span style="font-size:12px;">September 2011-April 2014, Institute for Advanced Studies in Basic Science, Zanjan, Iran </span> <br> 
-<span style="font-size:12px;"> Studying Spin-Orbit interaction's effect on the anisotropic properties of materials.</span>
+<span style="font-size:12px;"> Thesis: Studying Spin-Orbit interaction's effect on the anisotropic properties of materials.</span>
 
 <span style="font-size:15px;color:#94AE7D; font-family: 'Avenir Next LT Pro', sans-serif;"> B.Sc. in Physics</span><br>
 <span style="font-size:12px;">September 2003 - April 2008  University of Tehran, Tehran</span> <br> 
-<span style="font-size:12px;"> Employing Physical Vapor Deposition (PVD) techniques, such as Sputtering and thermal co-evaporation, for nano-coating on thin films.</span>
-
-<span style="font-size:13px;color:#005cab; font-family: 'Avenir Next LT Pro', sans-serif;">-Ph. D. Thesis: Charge Transport in Magnetic Topological Insulators </span><br>
-<span style="font-size:13px;color:#005cab; font-family: 'Avenir Next LT Pro', sans-serif;">-M. Sc. Thesis: Studying Spin-Orbit interaction's effect on the anisotropic properties of materials. </span><br>
-<span style="font-size:13px;color:#005cab; font-family: 'Avenir Next LT Pro', sans-serif;">-B. Sc.Thesis: Employing Physical Vapor Deposition (PVD) techniques, such as Sputtering and thermal co-evaporation, for nano-coating on thin films.</span>
-
-
+<span style="font-size:12px;"> Thesis: Employing Physical Vapor Deposition (PVD) techniques, such as Sputtering and thermal co-evaporation, for nano-coating on thin films.</span>
 <br><br><br>
 <span style="font-size: 25px; color: #2171b5 ; font-family: 'Avenir Next LT Pro'"> Work Experience: </span>
 <br><br>
