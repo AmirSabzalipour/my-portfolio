@@ -30,11 +30,9 @@
 <span style="font-size:12px; color:#5b7f95"> Thesis: Charge Transport in Magnetic Topological Insulators</span>
 <br> <span style="font-size:11px;"> March 2017-October 2021, University of Antwerp, Belgium</span> <br> 
 
-
 <span style="font-size:15px;color:#94AE7D; font-family: 'Avenir Next LT Pro', sans-serif;"> M.Sc. in Physics</span><br> 
 <span style="font-size:12px; color:#5b7f95"> Thesis: Studying Spin-Orbit interaction's effect on the anisotropic properties of materials.</span>
 <br><span style="font-size:11px;">September 2011-April 2014, Institute for Advanced Studies in Basic Science, Zanjan, Iran </span> 
-
 
 <span style="font-size:15px;color:#94AE7D; font-family: 'Avenir Next LT Pro', sans-serif;"> B.Sc. in Physics</span><br>
 <span style="font-size:12px;color:#5b7f95"> Thesis: Employing Physical Vapor Deposition (PVD) techniques, such as Sputtering and thermal co-evaporation, for nano-coating on thin films.</span><br>
@@ -43,6 +41,19 @@
 
 <div style="border-radius: 20px;background-color: #f7f7f7;width: 170px; padding-left: 20px; padding-right: 20px; padding-top: 7px; padding-bottom: 7px; border: 1px solid #CCCCCC;"><span style="font-size: 20px; color: #2171b5 ; font-family: 'Avenir Next LT Pro'">  Work Experience </span></div>
 <br><br>
+<span style="font-size: 13px; color: #6baed6 ; font-family: 'Avenir Next LT Pro'">Advancing Material Modeling: Large-Scale and Parallel Simulations with High-Performance Computing (HPC) Using VASP and Quantum ESPRESSO</span><br>
+-<span style="font-size: 13px; color: #94AE7D ; font-family: 'Avenir Next LT Pro'">Computational Research on Materials </span><br>
+  -<span style="font-size: 13px; color: #94AE7D ; font-family: 'Avenir Next LT Pro'">Postdoctoral Researcher</span><br>
+    <span style="font-size: 10px; color: gray ; font-family: 'Avenir Next LT Pro'"> University of Antwerp, Antwerp, Belgium, October 2021 - 
+    January 2023</span><br>
+  -<span style="font-size: 13px; color: #94AE7D ; font-family: 'Avenir Next LT Pro'">Doctoral Researcher</span><br>
+    <span style="font-size: 10px; color: gray ; font-family: 'Avenir Next LT Pro'">- University of Antwerp, Antwerp, Belgium, March 2017 - 
+     October 2021 </span><br>
+-<span style="font-size: 13px; color: #94AE7D ; font-family: 'Avenir Next LT Pro'">Visiting Researcher</span><br>
+  <span style="font-size: 10px; color: gray ; font-family: 'Avenir Next LT Pro'">-Institute for Research in Fundamental Sciences, Iran, February 2016 - February 2017 </span><br>
+-<span style="font-size: 13px; color: #94AE7D ; font-family: 'Avenir Next LT Pro'">Visiting Researcher</span><br>
+  <span style="font-size: 10px; color: gray ; font-family: 'Avenir Next LT Pro'"> Uppsala University, Uppsala, Sweden, October 2015 - January 2016 </span>
+
   - *University of Antwerp, Antwerp, Belgium*
   - March 2017 - October 2021
   - Responsibilities:
