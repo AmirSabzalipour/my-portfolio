@@ -40,29 +40,29 @@
 <br><br><br>
 
 <div style="border-radius: 20px;background-color: #f7f7f7;width: 170px; padding-left: 20px; padding-right: 20px; padding-top: 7px; padding-bottom: 7px; border: 1px solid #CCCCCC;"><span style="font-size: 20px; color: #2171b5 ; font-family: 'Avenir Next LT Pro'">Work Experience</span></div>
-<br><br>
+
 <ul style="list-style-type: none; padding-left: 0;">
   <li>
     <span style="font-size: 14px; color: #6baed6 ; font-family: 'Avenir Next LT Pro'"> I) Computational Research on Materials</span><br>
     <ul style="list-style-type: none; padding-left: 20px;"><br>
      
       <li>
-        <span style="font-size: 13px; color: #94AE7D ; font-family: 'Avenir Next LT Pro'">I-1) Postdoctoral Researcher</span><br>
+        <span style="font-size: 13px; color: #94AE7D ; font-family: 'Avenir Next LT Pro'">I-1) Postdoctoral Researcher</span>
         <span style="font-size: 10px; color: gray ; font-family: 'Avenir Next LT Pro'">University of Antwerp, Antwerp, Belgium, October 2021 - 
           January 2023</span>
       </li>
       <li>
-        <span style="font-size: 13px; color: #94AE7D ; font-family: 'Avenir Next LT Pro'">I-2) Doctoral Researcher</span><br>
+        <span style="font-size: 13px; color: #94AE7D ; font-family: 'Avenir Next LT Pro'">I-2) Doctoral Researcher</span>
         <span style="font-size: 10px; color: gray ; font-family: 'Avenir Next LT Pro'">University of Antwerp, Antwerp, Belgium, March 2017 - 
         October 2021</span>
       </li>
        <li>
-      <span style="font-size: 13px; color: #94AE7D ; font-family: 'Avenir Next LT Pro'">1-3) Visiting Researcher</span><br>
+      <span style="font-size: 13px; color: #94AE7D ; font-family: 'Avenir Next LT Pro'">1-3) Visiting Researcher</span>
      <span style="font-size: 10px; color: gray ; font-family: 'Avenir Next LT Pro'">Institute for Research in Fundamental Sciences, Iran, 
       February 2016 - February 2017</span>
   </li>
   <li>
-    <span style="font-size: 13px; color: #94AE7D ; font-family: 'Avenir Next LT Pro'">1-4) Visiting Researcher</span><br>
+    <span style="font-size: 13px; color: #94AE7D ; font-family: 'Avenir Next LT Pro'">1-4) Visiting Researcher</span>
     <span style="font-size: 10px; color: gray ; font-family: 'Avenir Next LT Pro'">Uppsala University, Uppsala, Sweden, October 2015 - January 2016</span>
   </li>
 </ul>
