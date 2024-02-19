@@ -28,17 +28,18 @@
 <div style="border-radius: 20px;width: 135px; padding: 10px; border: 1px solid #bdd7e7;">
  <span style="font-size: 20px; color:#2171b5 ; font-family: 'Avenir Next LT Pro'">Education</span></div> <br> 
 <span style="font-size:15px;color:#94AE7D; font-family: 'Avenir Next LT Pro', sans-serif;">Ph.D. in Physics,</span><br>
-<span style="font-size:12px;"> Thesis: Charge Transport in Magnetic Topological Insulators</span>
-<br> <span style="font-size:10px;"> March 2017-October 2021, University of Antwerp, Belgium</span> <br> 
+<span style="font-size:12px; color:#5b7f95"> Thesis: Charge Transport in Magnetic Topological Insulators</span>
+<br> <span style="font-size:11px;"> March 2017-October 2021, University of Antwerp, Belgium</span> <br> 
 
 
-<span style="font-size:15px;color:#94AE7D; font-family: 'Avenir Next LT Pro', sans-serif;"> M.Sc. in Physics</span>
-<br><span style="font-size:12px;">September 2011-April 2014, Institute for Advanced Studies in Basic Science, Zanjan, Iran </span> <br> 
-<span style="font-size:12px;"> Thesis: Studying Spin-Orbit interaction's effect on the anisotropic properties of materials.</span>
+<span style="font-size:15px;color:#94AE7D; font-family: 'Avenir Next LT Pro', sans-serif;"> M.Sc. in Physics</span><br> 
+<span style="font-size:12px; color:#5b7f95"> Thesis: Studying Spin-Orbit interaction's effect on the anisotropic properties of materials.</span>
+<br><span style="font-size:11px;">September 2011-April 2014, Institute for Advanced Studies in Basic Science, Zanjan, Iran </span> 
+
 
 <span style="font-size:15px;color:#94AE7D; font-family: 'Avenir Next LT Pro', sans-serif;"> B.Sc. in Physics</span><br>
-<span style="font-size:12px;">September 2003 - April 2008  University of Tehran, Tehran</span> <br> 
-<span style="font-size:12px;"> Thesis: Employing Physical Vapor Deposition (PVD) techniques, such as Sputtering and thermal co-evaporation, for nano-coating on thin films.</span>
+<span style="font-size:12px;#5b7f95"> Thesis: Employing Physical Vapor Deposition (PVD) techniques, such as Sputtering and thermal co-evaporation, for nano-coating on thin films.</span><br>
+<span style="font-size:11px;">September 2003 - April 2008  University of Tehran, Tehran</span> 
 <br><br><br>
 <span style="font-size: 25px; color: #2171b5 ; font-family: 'Avenir Next LT Pro'"> Work Experience: </span>
 <br><br>
